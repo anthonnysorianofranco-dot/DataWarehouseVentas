@@ -15,5 +15,5 @@ Se realizó extracción desde tablas OLTP (Cliente, Producto, Factura), transfor
 ## Tecnologías
 - SQL Server
 
-## 👨‍💻 Autor
+## Autor
 Anthonny Brayhan Soriano Franco: 2024-2266.
